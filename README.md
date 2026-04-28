@@ -48,6 +48,11 @@ Senior software engineer who builds and scales distributed systems. Passionate a
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srikanthpadakanti&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srikanthpadakanti&theme=github-dark-blue&hide_border=true" height="170" />
+</p>
+
+<p align="center">
   <img src="https://github.com/srikanthpadakanti/srikanthpadakanti/blob/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
