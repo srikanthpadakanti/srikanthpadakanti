@@ -1,3 +1,50 @@
+<!-- ============================================================ -->
+<!-- BANNER OPTIONS — pick one, delete the rest                   -->
+<!-- ============================================================ -->
+
+<!-- OPTION 1: Typing Animation -->
+<p align="center">
+  <a href="https://github.com/srikanthpadakanti">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Software+Engineer+%40+Apple;OpenSearch+Contributor;Distributed+Systems+%7C+Data+Pipelines+%7C+Observability" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+<!-- OPTION 2: Wave SVG Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:0d1117,100:161b22&height=200&section=header&text=Srikanth%20Padakanti&fontColor=58A6FF&fontSize=40&fontAlignY=35&desc=Software%20Engineer%20%7C%20OpenSearch%20Contributor&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+</p>
+
+---
+
+<!-- OPTION 3: Gradient Banner with Capsule Render -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=150&section=header&text=Srikanth%20Padakanti&fontColor=ffffff&fontSize=40&fontAlignY=45&desc=Distributed%20Systems%20%E2%80%A2%20Data%20Pipelines%20%E2%80%A2%20Observability&descColor=58A6FF&descAlignY=75" />
+</p>
+
+---
+
+<!-- OPTION 4: Cylinder/Soft Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,100:161b22&height=150&section=header&text=Srikanth%20Padakanti&fontColor=58A6FF&fontSize=35&fontAlignY=45&desc=Software%20Engineer%20at%20Apple&descColor=8b949e&descAlignY=70&animation=scaleIn" />
+</p>
+
+---
+
+<!-- OPTION 5: 3D Contribution Graph (run the workflow first) -->
+<!-- After running the 3D workflow, uncomment this: -->
+<!-- <p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
+</p> -->
+<p align="center"><em>3D Contribution Graph — run the workflow from Actions tab to generate</em></p>
+
+---
+
+<!-- ============================================================ -->
+<!-- END OF BANNER OPTIONS                                        -->
+<!-- ============================================================ -->
+
 <h1 align="center">Hey, I'm Srikanth Padakanti 👋</h1>
 
 <h3 align="center">Software Engineer at Apple | OpenSearch Contributor</h3>
@@ -52,3 +99,7 @@
         </p>
     </div>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:0d1117,100:161b22&height=100&section=footer" />
+</p>
