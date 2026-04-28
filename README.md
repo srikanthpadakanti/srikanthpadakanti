@@ -36,9 +36,8 @@
         <h3>✨ Fun Facts</h3>
         <ul>
             <li>I love hackathons, swimming and cricket.</li>
-            <li>I build data pipelines that move millions of events per second.</li>
-            <li>I found and fixed bugs in the OpenSearch TSDB plugin that no one else caught.</li>
-            <li>I am preparing my first conference talk for OpenSearchCon.</li>
+            <li>I enjoy building end to end observability pipelines from scratch.</li>
+            <li>I contribute to open source because I use it every day.</li>
         </ul>
         <h3>🧑‍💻 About Me</h3>
         <p>
