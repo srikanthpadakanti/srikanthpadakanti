@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,go,ts,bash,spring,gradle,docker,kubernetes,aws,git,github,linux,postgres" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=java,python,go,ts,bash,spring,gradle,docker,kubernetes,aws,kafka,prometheus,git,github,linux,postgres" alt="Skills and tools"/>
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 <h3>🔗 Connect</h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/srikanth-padakanti/" target="_blank">
+  <a href="https://www.linkedin.com/in/srikanth-padakanti-9023b720" target="_blank">
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn">
   </a>
   <a href="https://github.com/srikanthpadakanti" target="_blank">
