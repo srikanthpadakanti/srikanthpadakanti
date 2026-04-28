@@ -1,3 +1,6 @@
+<!-- Snake Banner -->
+![GitHub Snake](https://raw.githubusercontent.com/srikanthpadakanti/srikanthpadakanti/output/github-snake-dark.svg)
+
 <!-- Greeting -->
 <h1 align="center">Hey, I'm Srikanth Padakanti 👋</h1>
 <h3 align="center">Software Engineer at Apple | Austin, TX</h3>
@@ -47,8 +50,6 @@ Software engineer who builds and scales distributed systems. Passionate about se
 <p align="center">
   <img src="https://github.com/srikanthpadakanti/srikanthpadakanti/blob/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
-
-![GitHub Snake](https://raw.githubusercontent.com/srikanthpadakanti/srikanthpadakanti/output/github-snake-dark.svg)
 
 ---
 
