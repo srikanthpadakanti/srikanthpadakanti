@@ -29,6 +29,9 @@
             <a href="https://github.com/srikanthpadakanti" target="_blank">
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" alt="GitHub">
             </a>
+            <a href="https://www.instagram.com/itsmekanthu/" target="_blank">
+                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram">
+            </a>
         </p>
         <h3>✨ Fun Facts</h3>
         <ul>
