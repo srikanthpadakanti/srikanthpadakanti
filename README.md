@@ -1,9 +1,36 @@
+<!-- Greeting -->
+<h1 align="center">Hey, I'm Srikanth Padakanti 👋</h1>
+<h3 align="center">Software Engineer at Apple | Austin, TX</h3>
+<p align="center">Search enthusiast. Distributed systems. Open source contributor.</p>
+
+<!-- Social -->
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <a href="https://www.linkedin.com/in/srikanth-padakanti-9023b720" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/srikanthpadakanti" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" alt="GitHub">
+  </a>
+  <a href="https://www.instagram.com/itsmekanthu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram">
+  </a>
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srikanthpadakanti&theme=github-dark-dimmed&custom_title=Srikanth%20Padakanti%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
+<!-- About -->
+<h3>🧑‍💻 About Me</h3>
+
+Software engineer who builds and scales distributed systems. Passionate about search, data pipelines, and observability infrastructure. Open source contributor with a focus on making complex systems simpler to operate.
+
+- 🔍 Passionate about search engines and information retrieval
+- 🏗 I enjoy building end to end observability pipelines from scratch
+- 🏏 I love hackathons, swimming and cricket
+- 🌱 I contribute to open source because I use it every day
+
+---
+
+<!-- Tech Stack -->
 <h3 align="center">🛠 Languages and Tools</h3>
 
 <p align="center">
@@ -12,40 +39,34 @@
   </a>
 </p>
 
+---
+
+<!-- GitHub Metrics + Snake -->
+<h3>📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github.com/srikanthpadakanti/srikanthpadakanti/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
 ![GitHub Snake](https://raw.githubusercontent.com/srikanthpadakanti/srikanthpadakanti/output/github-snake-dark.svg)
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
-    <div style="flex: 1; max-width: 45%;">
-        <img align="left" width="50%" alt="GitHub Metrics" src="https://github.com/srikanthpadakanti/srikanthpadakanti/blob/main/github-metrics.svg">
-    </div>
-    <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
-        <h3>🔗 Let's Connect</h3>
-        <p>
-            <a href="https://www.linkedin.com/in/srikanth-padakanti-9023b720" target="_blank">
-                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn">
-            </a>
-            <a href="https://github.com/srikanthpadakanti" target="_blank">
-                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" alt="GitHub">
-            </a>
-            <a href="https://www.instagram.com/itsmekanthu/" target="_blank">
-                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram">
-            </a>
-        </p>
-        <h3>✨ Fun Facts</h3>
-        <ul>
-            <li>I love hackathons, swimming and cricket.</li>
-            <li>I enjoy building end to end observability pipelines from scratch.</li>
-            <li>I contribute to open source because I use it every day.</li>
-        </ul>
-        <h3>🧑‍💻 About Me</h3>
-        <p>
-            Software engineer who builds and scales distributed systems. Passionate about search,
-            data pipelines, and observability infrastructure. Open source contributor with a focus
-            on making complex systems simpler to operate.
-        </p>
-    </div>
-</div>
+---
 
+<!-- Activity Graph -->
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srikanthpadakanti&theme=github-dark-dimmed&custom_title=Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<!-- 3D Contributions -->
+<h3>🏔 3D Contribution Map</h3>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</p>
+
+---
+
+<!-- Recent Activity -->
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
