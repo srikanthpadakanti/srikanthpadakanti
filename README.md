@@ -2,13 +2,31 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
-<h1 align="center">Hey, I'm Srikanth Padakanti 👋</h1>
-
-<h3 align="center">Software Engineer at Apple | OpenSearch Contributor</h3>
-
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=srikanthpadakanti_visitor_badge&left_color=royalblue&right_color=black" />
+  <a href="https://www.linkedin.com/in/srikanth-padakanti-9023b720">
+    <img alt="LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+  </a>
+  <a href="https://www.instagram.com/itsmekanthu/">
+    <img alt="Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035069-0f415fc7-9f96-4517-a370-ccc6e78a714c.png" />
+  </a>
 </p>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srikanthpadakanti&theme=github-dark-dimmed&custom_title=Srikanth%20Padakanti%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+```yaml
+name: Srikanth Padakanti
+located_in: San Francisco Bay Area, CA
+from: India
+job: Software Engineer
+company: Apple
+education: ["Master's in Computer Science"]
+fields_of_interests: ["Search Engines", "Distributed Systems", "Data Pipelines",
+                      "Observability", "Time Series Databases", "Stream Processing"]
+technical_background: ["Java", "Python", "Go", "OpenSearch", "Data Prepper",
+                       "Prometheus", "Kafka", "Docker", "Kubernetes", "AWS"]
+open_source: ["OpenSearch Data Prepper", "OpenSearch SQL Plugin", "OpenSearch Core"]
+hobbies: ["Hackathons", "Swimming", "Cricket"]
+```
 
 <h3 align="center">🛠 Languages and Tools</h3>
 
@@ -52,6 +70,11 @@
     </div>
 </div>
 
+**:zap: Recent Activity:**
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:0d1117,100:161b22&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
