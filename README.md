@@ -2,15 +2,6 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/srikanth-padakanti-9023b720">
-    <img alt="LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-  </a>
-  <a href="https://www.instagram.com/itsmekanthu/">
-    <img alt="Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035069-0f415fc7-9f96-4517-a370-ccc6e78a714c.png" />
-  </a>
-</p>
-
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srikanthpadakanti&theme=github-dark-dimmed&custom_title=Srikanth%20Padakanti%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ```yaml
