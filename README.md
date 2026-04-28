@@ -45,14 +45,9 @@
         </ul>
         <h3>🧑‍💻 About Me</h3>
         <p>
-            Software engineer focused on distributed systems, data pipelines, and observability.
-            Contributor to the OpenSearch project with work across Data Prepper, the SQL plugin,
-            and OpenSearch core. Built the Prometheus ingestion pipeline for OpenSearch including
-            the Remote Write source, scrape source, and TSDB sink support.
-        </p>
-        <p>
-            Currently exploring time series storage engines, query optimization, and bridging
-            the gap between Prometheus and OpenSearch for unified observability.
+            Software engineer who builds and scales distributed systems. I work on data pipelines,
+            observability infrastructure, and search engines. Open source contributor with a focus
+            on making complex systems simpler to operate.
         </p>
     </div>
 </div>
