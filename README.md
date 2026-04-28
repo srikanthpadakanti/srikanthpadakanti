@@ -4,21 +4,6 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srikanthpadakanti&theme=github-dark-dimmed&custom_title=Srikanth%20Padakanti%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-```yaml
-name: Srikanth Padakanti
-located_in: San Francisco Bay Area, CA
-from: India
-job: Software Engineer
-company: Apple
-education: ["Master's in Computer Science"]
-fields_of_interests: ["Search Engines", "Distributed Systems", "Data Pipelines",
-                      "Observability", "Time Series Databases", "Stream Processing"]
-technical_background: ["Java", "Python", "Go", "OpenSearch", "Data Prepper",
-                       "Prometheus", "Kafka", "Docker", "Kubernetes", "AWS"]
-open_source: ["OpenSearch Data Prepper", "OpenSearch SQL Plugin", "OpenSearch Core"]
-hobbies: ["Hackathons", "Swimming", "Cricket"]
-```
-
 <h3 align="center">🛠 Languages and Tools</h3>
 
 <p align="center">
