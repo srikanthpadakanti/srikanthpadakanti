@@ -24,7 +24,7 @@
 <!-- About -->
 <h3>🧑‍💻 About Me</h3>
 
-Software engineer who builds and scales distributed systems. Passionate about search, data pipelines, and observability infrastructure. Open source contributor with a focus on making complex systems simpler to operate.
+Senior software engineer who builds and scales distributed systems. Passionate about search, data pipelines, and observability infrastructure. Open source contributor with a focus on making complex systems simpler to operate.
 
 - 🔍 Passionate about search engines and information retrieval
 - 🏗 I enjoy building end to end observability pipelines from scratch
