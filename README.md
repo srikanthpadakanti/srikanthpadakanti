@@ -45,8 +45,8 @@
         </ul>
         <h3>🧑‍💻 About Me</h3>
         <p>
-            Software engineer who builds and scales distributed systems. I work on data pipelines,
-            observability infrastructure, and search engines. Open source contributor with a focus
+            Software engineer who builds and scales distributed systems. Passionate about search,
+            data pipelines, and observability infrastructure. Open source contributor with a focus
             on making complex systems simpler to operate.
         </p>
     </div>
