@@ -1,6 +1,6 @@
 <!-- Greeting -->
 <h1 align="center">Hey, I'm Srikanth Padakanti 👋</h1>
-<h3 align="center">Software Engineer at Apple | Austin, TX</h3>
+<h3 align="center">Senior Software Engineer at Apple | Austin, TX</h3>
 <p align="center">Search enthusiast. Distributed systems. Open source contributor.</p>
 
 <!-- Snake Banner -->
