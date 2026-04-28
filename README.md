@@ -1,10 +1,10 @@
-<!-- Snake Banner -->
-![GitHub Snake](https://raw.githubusercontent.com/srikanthpadakanti/srikanthpadakanti/output/github-snake-dark.svg)
-
 <!-- Greeting -->
 <h1 align="center">Hey, I'm Srikanth Padakanti 👋</h1>
 <h3 align="center">Software Engineer at Apple | Austin, TX</h3>
 <p align="center">Search enthusiast. Distributed systems. Open source contributor.</p>
+
+<!-- Snake Banner -->
+![GitHub Snake](https://raw.githubusercontent.com/srikanthpadakanti/srikanthpadakanti/output/github-snake-dark.svg)
 
 <!-- Social -->
 <p align="center">
