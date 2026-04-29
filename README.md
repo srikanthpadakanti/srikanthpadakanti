@@ -67,11 +67,11 @@ Senior software engineer who builds and scales distributed systems. Passionate a
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#6782](https://github.com/opensearch-project/data-prepper/issues/6782) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-2. ❗ Opened issue [#6782](https://github.com/opensearch-project/data-prepper/issues/6782) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-3. 🗣 Commented on [#6760](https://github.com/opensearch-project/data-prepper/issues/6760#issuecomment-4332618275) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-4. 💪 Opened PR [#6776](https://github.com/opensearch-project/data-prepper/pull/6776) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-5. 💪 Opened PR [#6774](https://github.com/opensearch-project/data-prepper/pull/6774) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+1. 🗣 Commented on [#105](https://github.com/opensearch-project/time-series-db/issues/105#issuecomment-4337677647) in [opensearch-project/time-series-db](https://github.com/opensearch-project/time-series-db)
+2. 💪 Opened PR [#106](https://github.com/opensearch-project/time-series-db/pull/106) in [opensearch-project/time-series-db](https://github.com/opensearch-project/time-series-db)
+3. ℹ️ Labeled issue [#105](https://github.com/opensearch-project/time-series-db/issues/105) in [opensearch-project/time-series-db](https://github.com/opensearch-project/time-series-db)
+4. ℹ️ Labeled issue [#105](https://github.com/opensearch-project/time-series-db/issues/105) in [opensearch-project/time-series-db](https://github.com/opensearch-project/time-series-db)
+5. ❗ Opened issue [#105](https://github.com/opensearch-project/time-series-db/issues/105) in [opensearch-project/time-series-db](https://github.com/opensearch-project/time-series-db)
 <!--END_SECTION:activity-->
 
 <p align="center">
