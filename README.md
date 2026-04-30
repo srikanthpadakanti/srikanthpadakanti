@@ -67,7 +67,7 @@ Senior software engineer who builds and scales distributed systems. Passionate a
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#105](https://github.com/opensearch-project/time-series-db/issues/105#issuecomment-4337677647) in [opensearch-project/time-series-db](https://github.com/opensearch-project/time-series-db)
+1. ❌ Closed PR [#106](https://github.com/opensearch-project/time-series-db/pull/106) in [opensearch-project/time-series-db](https://github.com/opensearch-project/time-series-db)
 2. 💪 Opened PR [#106](https://github.com/opensearch-project/time-series-db/pull/106) in [opensearch-project/time-series-db](https://github.com/opensearch-project/time-series-db)
 3. ℹ️ Labeled issue [#105](https://github.com/opensearch-project/time-series-db/issues/105) in [opensearch-project/time-series-db](https://github.com/opensearch-project/time-series-db)
 4. ℹ️ Labeled issue [#105](https://github.com/opensearch-project/time-series-db/issues/105) in [opensearch-project/time-series-db](https://github.com/opensearch-project/time-series-db)
