@@ -67,11 +67,11 @@ Senior software engineer who builds and scales distributed systems. Passionate a
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6782](https://github.com/opensearch-project/data-prepper/issues/6782#issuecomment-4365509661) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-2. 🗣 Commented on [#6682](https://github.com/opensearch-project/data-prepper/pull/6682#issuecomment-4365487986) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-3. 🗣 Commented on [#6766](https://github.com/opensearch-project/data-prepper/issues/6766#issuecomment-4365464727) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-4. ❌ Closed PR [#106](https://github.com/opensearch-project/time-series-db/pull/106) in [opensearch-project/time-series-db](https://github.com/opensearch-project/time-series-db)
-5. 💪 Opened PR [#106](https://github.com/opensearch-project/time-series-db/pull/106) in [opensearch-project/time-series-db](https://github.com/opensearch-project/time-series-db)
+1. ❌ Closed PR [#6825](https://github.com/opensearch-project/data-prepper/pull/6825) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+2. 💪 Opened PR [#6827](https://github.com/opensearch-project/data-prepper/pull/6827) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+3. 🗣 Commented on [#6755](https://github.com/opensearch-project/data-prepper/pull/6755#issuecomment-4384040471) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+4. ℹ️ Labeled issue [#6826](https://github.com/opensearch-project/data-prepper/issues/6826) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+5. ❗ Opened issue [#6826](https://github.com/opensearch-project/data-prepper/issues/6826) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
 <!--END_SECTION:activity-->
 
 <p align="center">
