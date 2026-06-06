@@ -67,11 +67,11 @@ Senior software engineer who builds and scales distributed systems. Passionate a
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6853](https://github.com/opensearch-project/data-prepper/pull/6853#issuecomment-4623046663) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-2. 🔒 Closed issue [#6844](https://github.com/opensearch-project/data-prepper/issues/6844) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-3. 🎉 Merged PR [#6856](https://github.com/opensearch-project/data-prepper/pull/6856) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-4. 🎉 Merged PR [#6875](https://github.com/opensearch-project/data-prepper/pull/6875) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-5. 🔒 Closed issue [#6874](https://github.com/opensearch-project/data-prepper/issues/6874) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+1. 🎉 Merged PR [#6853](https://github.com/opensearch-project/data-prepper/pull/6853) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+2. 🔒 Closed issue [#6782](https://github.com/opensearch-project/data-prepper/issues/6782) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+3. 🗣 Commented on [#6853](https://github.com/opensearch-project/data-prepper/pull/6853#issuecomment-4623046663) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+4. 🔒 Closed issue [#6844](https://github.com/opensearch-project/data-prepper/issues/6844) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+5. 🎉 Merged PR [#6856](https://github.com/opensearch-project/data-prepper/pull/6856) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
 <!--END_SECTION:activity-->
 
 <p align="center">
