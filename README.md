@@ -67,11 +67,11 @@ Senior software engineer who builds and scales distributed systems. Passionate a
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6796](https://github.com/opensearch-project/data-prepper/issues/6796#issuecomment-4928076446) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-2. ℹ️ Unassigned issue [#6971](https://github.com/opensearch-project/data-prepper/issues/6971) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-3. ℹ️ Assigned issue [#6971](https://github.com/opensearch-project/data-prepper/issues/6971) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-4. ℹ️ Unassigned issue [#6971](https://github.com/opensearch-project/data-prepper/issues/6971) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-5. ℹ️ Assigned issue [#6971](https://github.com/opensearch-project/data-prepper/issues/6971) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+1. 🗣 Commented on [#6947](https://github.com/opensearch-project/data-prepper/pull/6947#issuecomment-4939658133) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+2. 🗣 Commented on [#6796](https://github.com/opensearch-project/data-prepper/issues/6796#issuecomment-4928076446) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+3. ℹ️ Unassigned issue [#6971](https://github.com/opensearch-project/data-prepper/issues/6971) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+4. ℹ️ Assigned issue [#6971](https://github.com/opensearch-project/data-prepper/issues/6971) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+5. ℹ️ Unassigned issue [#6971](https://github.com/opensearch-project/data-prepper/issues/6971) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
 <!--END_SECTION:activity-->
 
 <p align="center">
