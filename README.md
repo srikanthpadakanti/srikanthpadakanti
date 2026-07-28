@@ -67,11 +67,11 @@ Senior software engineer who builds and scales distributed systems. Passionate a
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#22556](https://github.com/opensearch-project/OpenSearch/issues/22556) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
+1. ℹ️ Assigned issue [#7002](https://github.com/opensearch-project/data-prepper/issues/7002) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
 2. ℹ️ Labeled issue [#22556](https://github.com/opensearch-project/OpenSearch/issues/22556) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
-3. ❗ Opened issue [#22556](https://github.com/opensearch-project/OpenSearch/issues/22556) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
-4. 🗣 Commented on [#22555](https://github.com/opensearch-project/OpenSearch/issues/22555#issuecomment-5061421210) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
-5. ℹ️ Labeled issue [#22555](https://github.com/opensearch-project/OpenSearch/issues/22555) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
+3. ℹ️ Labeled issue [#22556](https://github.com/opensearch-project/OpenSearch/issues/22556) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
+4. ❗ Opened issue [#22556](https://github.com/opensearch-project/OpenSearch/issues/22556) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
+5. 🗣 Commented on [#22555](https://github.com/opensearch-project/OpenSearch/issues/22555#issuecomment-5061421210) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
 <!--END_SECTION:activity-->
 
 <p align="center">
