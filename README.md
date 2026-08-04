@@ -67,11 +67,11 @@ Senior software engineer who builds and scales distributed systems. Passionate a
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7036](https://github.com/opensearch-project/data-prepper/pull/7036#issuecomment-5147945361) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-2. ℹ️ Assigned issue [#7002](https://github.com/opensearch-project/data-prepper/issues/7002) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-3. ℹ️ Labeled issue [#22556](https://github.com/opensearch-project/OpenSearch/issues/22556) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
-4. ℹ️ Labeled issue [#22556](https://github.com/opensearch-project/OpenSearch/issues/22556) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
-5. ❗ Opened issue [#22556](https://github.com/opensearch-project/OpenSearch/issues/22556) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
+1. 🗣 Commented on [#22556](https://github.com/opensearch-project/OpenSearch/issues/22556#issuecomment-5170348180) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
+2. 🗣 Commented on [#22556](https://github.com/opensearch-project/OpenSearch/issues/22556#issuecomment-5170344784) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
+3. 🗣 Commented on [#22556](https://github.com/opensearch-project/OpenSearch/issues/22556#issuecomment-5170332637) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
+4. 🎉 Merged PR [#6947](https://github.com/opensearch-project/data-prepper/pull/6947) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+5. 🎉 Merged PR [#7013](https://github.com/opensearch-project/data-prepper/pull/7013) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
 <!--END_SECTION:activity-->
 
 <p align="center">
