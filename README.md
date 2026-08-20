@@ -67,11 +67,11 @@ Senior software engineer who builds and scales distributed systems. Passionate a
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6916](https://github.com/opensearch-project/data-prepper/pull/6916#issuecomment-5284465215) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-2. 🔒 Closed issue [#6936](https://github.com/opensearch-project/data-prepper/issues/6936) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-3. 🎉 Merged PR [#6946](https://github.com/opensearch-project/data-prepper/pull/6946) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-4. 🗣 Commented on [#22555](https://github.com/opensearch-project/OpenSearch/issues/22555#issuecomment-5284059097) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
-5. 🔒 Closed issue [#7002](https://github.com/opensearch-project/data-prepper/issues/7002) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+1. ℹ️ Labeled PR [#7105](https://github.com/opensearch-project/data-prepper/pull/7105) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+2. 💪 Opened PR [#7105](https://github.com/opensearch-project/data-prepper/pull/7105) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+3. 🗣 Commented on [#6916](https://github.com/opensearch-project/data-prepper/pull/6916#issuecomment-5284465215) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+4. 🔒 Closed issue [#6936](https://github.com/opensearch-project/data-prepper/issues/6936) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+5. 🎉 Merged PR [#6946](https://github.com/opensearch-project/data-prepper/pull/6946) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
 <!--END_SECTION:activity-->
 
 <p align="center">
