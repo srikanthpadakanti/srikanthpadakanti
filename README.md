@@ -67,11 +67,11 @@ Senior software engineer who builds and scales distributed systems. Passionate a
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6394](https://github.com/opensearch-project/data-prepper/pull/6394#issuecomment-6128399368) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-2. 🗣 Commented on [#7163](https://github.com/opensearch-project/data-prepper/pull/7163#issuecomment-6128261644) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-3. 🗣 Commented on [#141](https://github.com/opensearch-project/technical-steering/issues/141#issuecomment-6030220527) in [opensearch-project/technical-steering](https://github.com/opensearch-project/technical-steering)
-4. 🗣 Commented on [#7163](https://github.com/opensearch-project/data-prepper/pull/7163#issuecomment-6021084151) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-5. 🗣 Commented on [#7148](https://github.com/opensearch-project/data-prepper/pull/7148#issuecomment-5896729221) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+1. 🗣 Commented on [#22556](https://github.com/opensearch-project/OpenSearch/issues/22556#issuecomment-6183430995) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
+2. 🗣 Commented on [#23339](https://github.com/opensearch-project/OpenSearch/pull/23339#issuecomment-6183596332) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
+3. 💪 Opened PR [#23339](https://github.com/opensearch-project/OpenSearch/pull/23339) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
+4. ❗ Opened issue [#23333](https://github.com/opensearch-project/OpenSearch/issues/23333) in [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
+5. 🗣 Commented on [#6394](https://github.com/opensearch-project/data-prepper/pull/6394#issuecomment-6128399368) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
 <!--END_SECTION:activity-->
 
 <p align="center">
