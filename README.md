@@ -67,11 +67,11 @@ Senior software engineer who builds and scales distributed systems. Passionate a
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#7122](https://github.com/opensearch-project/data-prepper/pull/7122) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-2. ℹ️ Unlabeled PR [#7122](https://github.com/opensearch-project/data-prepper/pull/7122) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-3. ℹ️ Labeled PR [#7122](https://github.com/opensearch-project/data-prepper/pull/7122) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-4. 🗣 Commented on [#7247](https://github.com/opensearch-project/data-prepper/issues/7247#issuecomment-6702284295) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-5. 🗣 Commented on [#7267](https://github.com/opensearch-project/data-prepper/pull/7267#issuecomment-6701879292) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+1. ℹ️ Assigned issue [#7300](https://github.com/opensearch-project/data-prepper/issues/7300) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+2. ℹ️ Assigned issue [#7299](https://github.com/opensearch-project/data-prepper/issues/7299) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+3. ❗ Opened issue [#7300](https://github.com/opensearch-project/data-prepper/issues/7300) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+4. ❗ Opened issue [#7299](https://github.com/opensearch-project/data-prepper/issues/7299) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+5. ℹ️ Assigned issue [#7297](https://github.com/opensearch-project/data-prepper/issues/7297) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
 <!--END_SECTION:activity-->
 
 <p align="center">
