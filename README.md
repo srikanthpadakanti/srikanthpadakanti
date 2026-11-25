@@ -67,11 +67,11 @@ Senior software engineer who builds and scales distributed systems. Passionate a
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7297](https://github.com/opensearch-project/data-prepper/issues/7297#issuecomment-7092534947) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-2. 🗣 Commented on [#7327](https://github.com/opensearch-project/data-prepper/issues/7327#issuecomment-7092407676) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-3. ℹ️ Assigned issue [#7327](https://github.com/opensearch-project/data-prepper/issues/7327) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-4. ❗ Opened issue [#7327](https://github.com/opensearch-project/data-prepper/issues/7327) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
-5. ℹ️ Unlabeled issue [#7300](https://github.com/opensearch-project/data-prepper/issues/7300) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+1. ❗ Opened issue [#7336](https://github.com/opensearch-project/data-prepper/issues/7336) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+2. 🗣 Commented on [#7297](https://github.com/opensearch-project/data-prepper/issues/7297#issuecomment-7092534947) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+3. 🗣 Commented on [#7327](https://github.com/opensearch-project/data-prepper/issues/7327#issuecomment-7092407676) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+4. ℹ️ Assigned issue [#7327](https://github.com/opensearch-project/data-prepper/issues/7327) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
+5. ❗ Opened issue [#7327](https://github.com/opensearch-project/data-prepper/issues/7327) in [opensearch-project/data-prepper](https://github.com/opensearch-project/data-prepper)
 <!--END_SECTION:activity-->
 
 <p align="center">
